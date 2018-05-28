@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d445a6f4-1d00-4afe-9bc6-031dffa58ec0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/kurento-one2one-call/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-one2one-call-recording/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-magic-mirror/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-one2many-call/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-group-call/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-chroma/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-hello-world-recording/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-platedetector/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-crowddetector/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-send-data-channel/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-show-data-channel/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-hello-world-repository/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-rtp-receiver/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-player/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-one2one-call-advanced/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-pointerdetector/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-metadata-example/target/" />
+    <ignored path="$PROJECT_DIR$/kurento-hello-world/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="One2OneCallAdvApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/One2OneCallAdvApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JpaConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/config/JpaConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="738">
+              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kurento-one2one-call-advanced/pom.xml" />
+        <option value="$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/config/JpaConfig.java" />
+        <option value="$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/One2OneCallAdvApp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1366" />
+    <option name="height" value="682" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kurento-tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-tutorial-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.One2OneCallAdvApp">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-hello-world" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.helloworld.Application" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-rtp-receiver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.rtpreceiver.Application" />
+    </configuration>
+    <configuration name="ChromaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-chroma" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.chroma.ChromaApp" />
+    </configuration>
+    <configuration name="CrowdDetectorApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-crowddetector" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.demo.CrowdDetectorApp" />
+    </configuration>
+    <configuration name="GroupCallApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-group-call" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.groupcall.GroupCallApp" />
+    </configuration>
+    <configuration name="HelloWorldRecApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-hello-world-recording" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.helloworld.HelloWorldRecApp" />
+    </configuration>
+    <configuration name="MagicMirrorApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-magic-mirror" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.magicmirror.MagicMirrorApp" />
+    </configuration>
+    <configuration name="MetadataApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-metadata-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.metadata.MetadataApp" />
+    </configuration>
+    <configuration name="One2ManyCallApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-one2many-call" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.one2manycall.One2ManyCallApp" />
+    </configuration>
+    <configuration name="One2OneCallAdvApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-one2one-call-advanced" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.one2onecalladv.One2OneCallAdvApp" />
+    </configuration>
+    <configuration name="One2OneCallApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-one2one-call" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.one2onecall.One2OneCallApp" />
+    </configuration>
+    <configuration name="One2OneCallRecApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-one2one-call-recording" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.one2onecallrec.One2OneCallRecApp" />
+    </configuration>
+    <configuration name="PlateDetectorApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-platedetector" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.platedetector.PlateDetectorApp" />
+    </configuration>
+    <configuration name="PlayerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-player" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.player.PlayerApp" />
+    </configuration>
+    <configuration name="PointerDetectorApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-pointerdetector" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.pointerdetector.PointerDetectorApp" />
+    </configuration>
+    <configuration name="SendDataChannelApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-send-data-channel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.senddatachannel.SendDataChannelApp" />
+    </configuration>
+    <configuration name="ShowDataChannelApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-show-data-channel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.showdatachannel.ShowDataChannelApp" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.One2OneCallApp" />
+      <item itemvalue="Spring Boot.One2OneCallRecApp" />
+      <item itemvalue="Spring Boot.MagicMirrorApp" />
+      <item itemvalue="Spring Boot.One2ManyCallApp" />
+      <item itemvalue="Spring Boot.GroupCallApp" />
+      <item itemvalue="Spring Boot.ChromaApp" />
+      <item itemvalue="Spring Boot.HelloWorldRecApp" />
+      <item itemvalue="Spring Boot.PlateDetectorApp" />
+      <item itemvalue="Spring Boot.CrowdDetectorApp" />
+      <item itemvalue="Spring Boot.SendDataChannelApp" />
+      <item itemvalue="Spring Boot.ShowDataChannelApp" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.PlayerApp" />
+      <item itemvalue="Spring Boot.One2OneCallAdvApp" />
+      <item itemvalue="Spring Boot.PointerDetectorApp" />
+      <item itemvalue="Spring Boot.MetadataApp" />
+      <item itemvalue="Spring Boot.Application (1)" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d445a6f4-1d00-4afe-9bc6-031dffa58ec0" name="Default" comment="" />
+      <created>1527524861627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527524861627</updated>
+      <workItem from="1527524863059" duration="1139000" />
+      <workItem from="1527526071613" duration="91000" />
+      <workItem from="1527526224358" duration="116000" />
+      <workItem from="1527529484430" duration="61000" />
+      <workItem from="1527530478877" duration="316000" />
+      <workItem from="1527530914877" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1728000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="682" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2771318" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27162367" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/One2OneCallAdvApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/config/JpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/One2OneCallAdvApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/config/JpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/One2OneCallAdvApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/config/JpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/One2OneCallAdvApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/config/JpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/One2OneCallAdvApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/config/JpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/config/JpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/One2OneCallAdvApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>kurento-chroma</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

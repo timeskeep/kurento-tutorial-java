@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kurento-chroma" />
+        <module name="kurento-crowddetector" />
+        <module name="kurento-group-call" />
+        <module name="kurento-hello-world" />
+        <module name="kurento-hello-world-recording" />
+        <module name="kurento-hello-world-repository" />
+        <module name="kurento-magic-mirror" />
+        <module name="kurento-metadata-example" />
+        <module name="kurento-one2many-call" />
+        <module name="kurento-one2one-call" />
+        <module name="kurento-one2one-call-advanced" />
+        <module name="kurento-one2one-call-recording" />
+        <module name="kurento-platedetector" />
+        <module name="kurento-player" />
+        <module name="kurento-pointerdetector" />
+        <module name="kurento-rtp-receiver" />
+        <module name="kurento-send-data-channel" />
+        <module name="kurento-show-data-channel" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
