@@ -59,7 +59,7 @@ public class One2OneCallAdvApp implements WebSocketConfigurer {
     registry.addHandler(callHandler(), "/call");
   }
 
-  public static void main(String[] args) throws Exception {
+  public static void main(String[] args) throws Exception, Throwable {
     SpringApplication.run(new Class<?>[] {One2OneCallAdvApp.class, JpaConfig.class}, args);
   }
 }
